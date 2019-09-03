@@ -22,6 +22,11 @@ Gomas en bolsita no tiene tienda fisica, hace las ventas mediante pedidos por re
 ![User Persona](https://i.ibb.co/VTmZ97Z/User-Persona.png)
 
 ### Customer journey map
-![Customer journery map](https://i.ibb.co/MVtzL77/Customer-journey-map.png)
+![Customer journery map](https://i.ibb.co/TWtsqZd/Customer-journey-map.png)
+
+### Definición de la solución
+
+Página web responsive que transmita color y alegría, que tenga un catálogo de productos y que se vea las características de cada uno, enfatizando que son hechos a mano y que son únicos, que permita agregar el producto a un carrito de compras y ver la información de las cuentas a las que se realizará la transferencia para el pago también rellenar un formulario los datos del lugar y la hora a la que se hará el delivery.
+
 
 
