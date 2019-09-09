@@ -28,5 +28,16 @@ Gomas en bolsita no tiene tienda fisica, hace las ventas mediante pedidos por re
 
 Página web responsive que transmita color y alegría, que tenga un catálogo de productos y que se vea las características de cada uno, enfatizando que son hechos a mano y que son únicos, que permita agregar el producto a un carrito de compras y ver la información de las cuentas a las que se realizará la transferencia para el pago también rellenar un formulario los datos del lugar y la hora a la que se hará el delivery.
 
+### Diseño
+#### Wireframes
+![Wireframe 1](https://i.ibb.co/mcX298Y/wireframe1.jpg)
+![Wireframe 2](https://i.ibb.co/GvMz1r0/wireframe2.jpg)
+
+### Mockups: [Mockup en Balsamiq](https://balsamiq.cloud/snt1y0w/pqt0sfk/r2278?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D)
+![Mockup 1](https://i.ibb.co/bLkGKD1/mockup1.png)
+
+
+
+
 
 
