@@ -19,10 +19,16 @@ Gomas en bolsita no tiene tienda fisica, hace las ventas mediante pedidos por re
 - En algunas ocasiones el producto fue entregado mucho después.
 ## DEFINICION DEL PUBLICO OBJETIVO
 ### User Persona 
-![User Persona](https://i.ibb.co/VTmZ97Z/User-Persona.png)
+
+<p align="center">
+	<img src="imagenes/UserPersona.PNG" width="900">
+</p>
 
 ### Customer journey map
-![Customer journery map](https://i.ibb.co/TWtsqZd/Customer-journey-map.png)
+
+<p align="center">
+	<img src="imagenes/CJM.PNG" width="900">
+</p>
 
 ### Definición de la solución
 
@@ -30,13 +36,20 @@ Página web responsive que transmita color y alegría, que tenga un catálogo de
 
 ### Diseño
 #### Wireframes
-![Wireframe 1](https://i.ibb.co/mcX298Y/wireframe1.jpg)
-![Wireframe 2](https://i.ibb.co/GvMz1r0/wireframe2.jpg)
+<p align="center">
+	<img src="imagenes/w1.jpg" width="900">
+</p>
+<p align="center">
+	<img src="imagenes/w2.jpg" width="900">
+</p>
 
 ### Mockups: [Mockup en Balsamiq](https://balsamiq.cloud/snt1y0w/pqt0sfk/r2278?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D)
-![Mockup 1](https://i.ibb.co/bLkGKD1/mockup1.png)
 
-
+<a href="https://balsamiq.cloud/snt1y0w/pqt0sfk/r2278?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D">
+<p align="center">
+	<img src="imagenes/mockup1.png" width="500">
+</p>
+</a>	
 
 
 
