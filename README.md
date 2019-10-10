@@ -47,7 +47,7 @@ Página web responsive que transmita color y alegría, que tenga un catálogo de
 
 <a href="https://balsamiq.cloud/snt1y0w/pqt0sfk/r2278?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D">
 <p align="center">
-	<img src="imagenes/mockup1.png" width="500">
+	<img src="imagenes/mockup1.png" width="550">
 </p>
 </a>	
 
